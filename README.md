@@ -32,18 +32,25 @@ src/
 │   │   ├── Dashboard.tsx
 │   │   ├── Projects.tsx
 │   │   └── Reports.tsx
-│   └── status/
-│       ├── Alarms.tsx
-│       ├── AuditTrail.tsx
-│       ├── Services.tsx
-│       └── SystemStatus.tsx
+│   ├── status/
+│   │   ├── Alarms.tsx
+│   │   ├── AuditTrail.tsx
+│   │   ├── Services.tsx
+│   │   └── SystemStatus.tsx
+│   ├── settings/
+│   ├── Settings.tsx
+│   └── Status.tsx
 ├── types/
 │   └── navigation.ts
 ├── config/
 │   └── navigation.tsx
 ├── hooks/
 │   └── useResizable.ts
+├── assets/
 ├── App.tsx
+├── App.css
+├── main.tsx
+├── vite-env.d.ts
 └── index.css
 ```
 
