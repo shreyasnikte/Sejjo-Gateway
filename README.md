@@ -1,6 +1,10 @@
 # Sejjo Gateway
 
-A modern React web application for workflow automation and project management, featuring an intuitive interface for creating and managing flow diagrams.
+A modern React web application serving as a base platform for developing webapps on top of it. It features workflow automation, project management, and an intuitive interface for creating and managing flow diagrams.
+
+## Screenshot
+
+![Sejjo Gateway Screenshot](docs/screenshot.png)
 
 ## Project Overview
 
